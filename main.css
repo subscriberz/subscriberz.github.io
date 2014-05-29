@@ -1,0 +1,59 @@
+body {
+	margin:0;
+	padding:0;
+}
+video {
+	width:100%;
+	height:100%;
+}
+/*hr {
+	margin-bottom: 0px;
+	color: #C2003D;
+	background-color: #C2003D;
+	height: 2px;
+}*/
+hr {
+    padding: 0;
+    border: none;
+    border-top: medium solid #C2003D;
+    color: #C2003D;
+    text-align: center;
+}
+hr:after {
+    content: "SUBSCRIBERZ";
+    display: inline-block;
+    position: relative; 
+    top: -0.9em;  
+    font-size: 1.0em;
+    padding: 0 0.25em;
+    background: white;
+}
+#about {
+	position:absolute;
+	width:200px;
+	height:200px;
+	top:50%;
+  	left:50%;
+ 	margin:-100px 0 0 -100px;
+}
+img {
+	max-width: 100%;
+}
+#divCategory{
+	/*margin-top: 46px;*/
+}
+.navbar-inverse {
+	background-color: #060606;
+	border-color: #202020;
+}
+.navbar-brand{
+	padding-top: 10px;
+	padding-bottom: 5px;
+	padding-left: 8px;
+}
+#cha{
+	vertical-align: sub;
+}
+#border{
+	border-bottom: 1px solid #EEE;
+}
