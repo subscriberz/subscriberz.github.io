@@ -15,8 +15,8 @@ video {
 hr {
     padding: 0;
     border: none;
-    border-top: medium solid #C2003D;
-    color: #C2003D;
+    border-top: medium solid #FF4136;
+    color: #FF4136;
     text-align: center;
 }
 hr:after {
